@@ -8,4 +8,4 @@
 
 ###### Make sure to download pygame and numpy modules before running the code on your computer
 
-
+![ss2](https://user-images.githubusercontent.com/53288043/91712711-f1f94d80-eba5-11ea-9a57-178e07b93569.png)
