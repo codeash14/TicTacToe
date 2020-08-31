@@ -1,4 +1,4 @@
-### This is a tic-tac-toe game developed using pygame and numpy module of python
+### This is a tic-tac-toe game developed using pygame and numpy modules of python
 #### -It is a 2 player game
 #### -Size of the screen can be adjusted by changing the value of WIDTH
 #### -To restart the game press 'R' key on the keyboard
