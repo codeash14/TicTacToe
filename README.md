@@ -1,5 +1,5 @@
-### This repository includes a tic-tac-toe game developed using pygame and numpy module of python
-#### -It is a 2 player tic-tac-toe game
+### This is a tic-tac-toe game developed using pygame and numpy module of python
+#### -It is a 2 player game
 #### -To restart the game press 'R' key on the keyboard
 
 
